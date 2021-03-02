@@ -8,7 +8,7 @@ import {BrowserRouter, Router, Route, Link} from 'react-router-dom';
 
 const Navbar = () => {
     return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark navbar-fixed-top">
       <div className="container-fluid title-container">
         <a className="navbar-brand" href="home"><img className="logo" href="home" src={logo} alt="logo..."/> </a>
 

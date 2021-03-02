@@ -38,7 +38,7 @@ const Header = () => {
                 <Typed
                 className="typed-name"
                 strings={["Kevin Wu&nbsp;"]}
-                typeSpeed={100}
+                typeSpeed={80}
                 />
                 </span>
                 
@@ -48,7 +48,7 @@ const Header = () => {
 
                 <Typed
                 className="typed-text"
-                strings={["Learner.","Motivation.","Empathy."]}
+                strings={["&nbsp;Learner.","&nbsp&nbsp;Motivation.","&nbsp;&nbsp;Developer."]}
                 typeSpeed={70}
                 backSpeed={50}
                 loop
